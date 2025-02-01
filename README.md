@@ -62,10 +62,11 @@ Follow these steps to set up the project on your local machine:
 ├── 📁 src
 │   ├── 📁 components
 │   │   ├── Quiz.jsx  # Main Quiz Component
+            Home.jsx
 │   ├── 📁 service
 │   │   ├── quizService.jsx  # API Fetch Function
-│   ├── 📁 styles
-│   │   ├── Quiz.css  # Custom Styling
+│ 
+│ 
 ├── 📄 package.json  # Project Dependencies
 ├── 📄 README.md  # Project Documentation
 └── 📄 vite.config.js  # Vite Configuration
